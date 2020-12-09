@@ -8,7 +8,7 @@ export default class MailServer {
             secure: true,
             auth: {
                 user: '15110334@student.hcmute.edu.vn', //Tài khoản gmail vừa tạo
-                pass: 'Toan12112122121' //Mật khẩu tài khoản gmail vừa tạo
+                pass: '***************' //Mật khẩu tài khoản gmail vừa tạo
             }
         })
         let content = text || `
